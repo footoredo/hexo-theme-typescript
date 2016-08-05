@@ -10,13 +10,10 @@ navigation:
   url: /
 - name: About
   slug: about
-  url: http://otakism.org/about
-- name: Works
-  slug: works
-  url: http://otakism.org/works
+  url: /about
 
 # Search
-search_enable: true
+search_enable: false
 
 # Miscellaneous
 google_analytics:
@@ -30,21 +27,21 @@ less:
 # use url, not username
 social:
 - slug: email
-  url: #mailto:i@artifact.me
+  url: mailto:footoredo@gmail.com
 - slug: github
-  url: https://github.com/artchen
+  url: https://github.com/footoredo
 - slug: twitter
-  url: https://twitter.com/otakism
-- slug: feed
+  url: https://twitter.com/footoredo
+- slug: rss
 	url: /atom.xml
 - slug: google
-  url: https://plus.google.com/+ArtChenOtakism/posts
+  url: #https://plus.google.com/+ArtChenOtakism/posts
 - slug: facebook
   url: # https://www.facebook.com/zanchoret
 - slug: linkedin
   url: # https://www.linkedin.com/in/buzun
 - slug: weibo
-  url: http://weibo.com/otakism/
+  url: #http://weibo.com/otakism/
 - slug: tumblr
   url: # http://artchen.tumblr.com
 - slug: dribbble
